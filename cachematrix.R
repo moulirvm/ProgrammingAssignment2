@@ -65,5 +65,3 @@ cacheSolve <- function(x, ...) {
   # Return inverse matrix
   inv
 }
-
-
